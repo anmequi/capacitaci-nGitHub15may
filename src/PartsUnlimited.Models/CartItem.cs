@@ -6,6 +6,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace PartsUnlimited.Models
 {
+    //Mi primer cambio
     public class CartItem
     {
         [Key]
