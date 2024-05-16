@@ -8,6 +8,7 @@ using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 
+//cambio en dev para pruebas de merge
 namespace PartsUnlimited.Models
 {
     public class Product

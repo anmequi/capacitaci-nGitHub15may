@@ -9,6 +9,7 @@ namespace PartsUnlimited.Models
     //cambio local para conflicto
     //cambio en master para conflicto
     //Mi primer cambio
+    //cambio en dev
     public class CartItem
     {
         [Key]
