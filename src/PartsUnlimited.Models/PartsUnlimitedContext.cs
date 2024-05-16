@@ -9,7 +9,7 @@ namespace PartsUnlimited.Models
     public class PartsUnlimitedContext : IdentityDbContext<ApplicationUser>, IPartsUnlimitedContext
     {
         private readonly string _connectionString;
-
+        //cambio 2 desde release para prueba merge squash
         public PartsUnlimitedContext(string connectionString)
         {
             _connectionString = connectionString;

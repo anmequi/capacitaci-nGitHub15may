@@ -3,6 +3,7 @@
 
 namespace PartsUnlimited.Models
 {
+    //cambio2 en master para prueba de merge rebased
     public class Raincheck
     {
         public int RaincheckId { get; set; }

@@ -6,10 +6,13 @@ using System.ComponentModel.DataAnnotations;
 
 namespace PartsUnlimited.Models
 {
-    //cambio en dev para prueba merge rebased
+
+    //cambio en dev para prueba merge rebased 
+    //cambio local para conflicto
+    //cambio en master para conflicto
     //Mi primer cambio
-    //cambio en dev
-    public class CartItem
+
+      public class CartItem
     {
         [Key]
         public int CartItemId { get; set; }
