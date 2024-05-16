@@ -8,6 +8,7 @@ using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 
+//cambio 1 en master para prueba de merge rebased
 //cambio en dev para pruebas de merge
 namespace PartsUnlimited.Models
 {
