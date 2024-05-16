@@ -1,4 +1,4 @@
-﻿// Copyright (c) Microsoft. All rights reserved.
+ele﻿// Copyright (c) Microsoft. All rights reserved.
 // Licensed under the MIT license. See LICENSE file in the project root for full license information.
 
 using Microsoft.AspNetCore.Mvc.ModelBinding;
@@ -10,7 +10,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace PartsUnlimited.Models
 {
-   //cambio para prueba de merge squash
+   //cambio en release para prueba de merge squash
     public class Product
     {
         [Required]
