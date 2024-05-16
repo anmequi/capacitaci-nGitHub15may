@@ -6,6 +6,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace PartsUnlimited.Models
 {
+    //cambio en dev para prueba merge rebased
     //Mi primer cambio
     //cambio en dev
     public class CartItem
