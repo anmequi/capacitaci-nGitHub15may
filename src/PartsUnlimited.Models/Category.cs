@@ -5,7 +5,9 @@ using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 
 namespace PartsUnlimited.Models
-{  //mi segundo cambio
+{  
+    //cambio para borrar
+    //mi segundo cambio
     public class Category
     {
         public int CategoryId { get; set; }
