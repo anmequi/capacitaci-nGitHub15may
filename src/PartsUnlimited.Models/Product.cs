@@ -10,6 +10,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace PartsUnlimited.Models
 {
+   //cambio para prueba de merge squash
     public class Product
     {
         [Required]
