@@ -6,6 +6,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace PartsUnlimited.Models
 {
+    //cambio en master para conflicto
     //Mi primer cambio
     public class CartItem
     {
