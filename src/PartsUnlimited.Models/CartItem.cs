@@ -7,6 +7,7 @@ using System.ComponentModel.DataAnnotations;
 namespace PartsUnlimited.Models
 {
     //cambio local para conflicto
+    //cambio en master para conflicto
     //Mi primer cambio
     public class CartItem
     {
